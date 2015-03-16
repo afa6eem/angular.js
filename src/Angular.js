@@ -1734,6 +1734,7 @@ function getBlockNodes(nodes) {
  * @returns {Object}
  */
 function createMap() {
+  
   return Object.create(null);
 }
 
